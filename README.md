@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation QA (Software Testing Profile)
 - 🌱 I’m currently learning Python For Selenium with Python Automation
 - 💞️ I’m looking to collaborate on my JAVA learning and Python with you all
-- 📫 You can reach me out via mail : yadav.sy.sudhanshu@gmail.com OR ring me up : 7701838997
+- 📫 You can reach me out via mail : yadav.sy.sudhanshu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching cricket and I am a big time cricket lover
 
